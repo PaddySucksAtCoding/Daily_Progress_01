@@ -1,0 +1,1 @@
+Filtering of EEG signal with acquired data

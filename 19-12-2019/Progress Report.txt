@@ -1,0 +1,6 @@
+Collection of data for 2 persons ( Alagappan and Patrick )
+Alagappan - Fatigue
+Patrick - Drowsy
+( 1 Hour of sampling for each person )
+Recording of Data 
+Storage of Data

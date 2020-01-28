@@ -1,0 +1,22 @@
+EOG - from holter:
+
+channel 1 - right eye 
+channel 2 - left eye
+above - positive for both channel 1 and 2
+below - negative for both channel 1 and 2
+
+channel 3 - horizontal
+right side - positive
+left side - negative 
+128 samples/sec
+
+EEG - from Epoc+
+14 Channels
+128 samples/sec
+
+PPG - from Samsung watchS2
+text file 
+25 samples/sec
+
+for alagappan - 
+eog data from 20:30  sec to 21:10 sec - 40 sec data unrelaible for channel2

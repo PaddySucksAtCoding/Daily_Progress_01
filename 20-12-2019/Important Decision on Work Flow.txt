@@ -1,0 +1,8 @@
+Data acquired from the device
+
+
+1. Examine data
+2. Study various denoising techniques for EEG signals from papers.
+3. Implement code for processing the various techniques  
+4. Store the results
+5. Take performance metrics of the method used for denoising

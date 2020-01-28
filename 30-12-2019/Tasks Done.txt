@@ -1,0 +1,3 @@
+Preparation of PPT for college review
+
+Reading of text file for EOG data and getting / forming the data array 
